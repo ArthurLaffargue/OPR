@@ -1,0 +1,28 @@
+++ OrrukWarclans - Orcs (v3.5.3) [AOF 1070pts] [9 Units] ++
+
+Chef de Guerre [1] Q4+ D5+ | 110pts | Hero, Tough(6), Ferocious, Armor(4+), Ferocious Boost Aura
+Heavy Lance (A6, AP(1), Thrust)
+
+Boss Orc Noir [1] Q4+ D3+ | 90pts | Melee Slayer, Hero, Tough(3), Ferocious, Piercing Assault Aura
+Dual Heavy Hand Weapons (A4, AP(1))
+
+Boss des Marais [1] Q5+ D6+ | 55pts | Hero, Tough(3), Ferocious, Hit & Run Fighter Aura, Piercing Assault, Scout, Strider
+Great Weapon (A3, AP(2))
+
+Goblin Chamane [1] Q5+ D6+ | 80pts | Hero, Tough(3), Ferocious, Armor(5+), Caster(3)
+Hand Weapon (A3)
+
+Guerriers Orcs [10] Q5+ D5+ | 100pts | 10x Ferocious
+10x Dual Hand Weapons (A2)
+
+Orcs des Marais [10] Q5+ D6+ | 150pts | 10x Scout, 10x Strider, 10x Piercing Assault, 10x Ferocious
+10x Dual Hand Weapons (A2)
+
+Brutes Orcs [3] Q4+ D4+ | 145pts | Tough(3), 3x Ferocious
+Heavy Great Weapon (A3, AP(3)), 2x Dual Heavy Hand Weapons (A4, AP(1))
+
+Archers Orcs [5] Q5+ D5+ | 65pts | 5x Ferocious
+5x Bow (24", A1), 5x Hand Weapon (A1)
+
+Ecorcheur Géant des Marais [1] Q4+ D3+ | 275pts | Fear(2), Stealth, Tough(12), Ferocious
+Snatching Hook (12", A3, AP(1), Reliable, Takedown), Putrid Bite (A8, Bane), Stomp (A4, AP(1))

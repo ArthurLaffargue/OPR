@@ -1,0 +1,18 @@
+army,unit_id,unit_name,weapon_name,wielders,range_in,attacks,rules_all,rules_core,rules_army_specific
+Eternal Wardens,eternal_wardens_veilleur_eternel,Veilleur Eternel,Great Thunder Mace,1,,2,AP(2);Blast(3);Lacerate,AP(2);Blast(3),Lacerate
+Eternal Wardens,eternal_wardens_seigneur_tempete_sur_gryphe_drake,Seigneur Tempête sur Gryphe-Drake,Great Thunder Mace,1,,2,AP(2);Blast(3);Lacerate,AP(2);Blast(3),Lacerate
+Eternal Wardens,eternal_wardens_seigneur_tempete_sur_gryphe_drake,Seigneur Tempête sur Gryphe-Drake,Rending Claws,1,,3,Rending,Rending,
+Eternal Wardens,eternal_wardens_pretresse_tempete,Pretresse tempête,Great Staff,1,,4,AP(1);Bane,AP(1);Bane,
+Eternal Wardens,eternal_wardens_chevalier_purificateur,Chevalier Purificateur,Heavy Hand Weapon,1,,3,AP(1),AP(1),
+Eternal Wardens,eternal_wardens_porteur_de_lumiere,Porteur de Lumière,Heavy Hand Weapon,1,,3,AP(1),AP(1),
+Eternal Wardens,eternal_wardens_legionnaires_foudre_lance,Légionnaires Foudre-Lance,Heavy Halberd,5,,1,AP(1);Rending,AP(1);Rending,
+Eternal Wardens,eternal_wardens_legionnaire_frappe_tonnerre,Légionnaire Frappe-Tonnerre,Heavy Great Weapon,5,,1,AP(3),AP(3),
+Eternal Wardens,eternal_wardens_gardes_sanctifies,Gardes Sanctifiés,Heavy Hand Weapon,2,,2,AP(1),AP(1),
+Eternal Wardens,eternal_wardens_gardes_sanctifies,Gardes Sanctifiés,Thunder Mace,1,,1,AP(2);Blast(3);Lacerate,AP(2);Blast(3),Lacerate
+Eternal Wardens,eternal_wardens_sorciers_des_tempetes,Sorciers des Tempêtes,Great Staff,3,,2,AP(1);Bane,AP(1);Bane,
+Eternal Wardens,eternal_wardens_guerriers_meteores,Guerriers Météores,Dual Heavy Hand Weapons,3,,4,AP(1),AP(1),
+Eternal Wardens,eternal_wardens_templiers_reclusiens,Templiers Réclusiens,Great Axe,3,,3,AP(1);Reliable,AP(1);Reliable,
+Eternal Wardens,eternal_wardens_archers,Archers,Bow,5,24,1,,,
+Eternal Wardens,eternal_wardens_archers,Archers,Hand Weapon,5,,1,,,
+Eternal Wardens,eternal_wardens_arbaletriers_lourds,Arbalétriers lourds,Hand Weapon,3,,2,,,
+Eternal Wardens,eternal_wardens_arbaletriers_lourds,Arbalétriers lourds,Thunder Crossbow,3,18,1,AP(2);Blast(3);Lacerate,AP(2);Blast(3),Lacerate

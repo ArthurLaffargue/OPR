@@ -1,0 +1,12 @@
+army,unit_id,unit_name,weapon_name,wielders,range_in,attacks,rules_all,rules_core,rules_army_specific
+Ratmen,ratmen_griffarque_sur_ronge_bete,Griffarque sur Ronge-Bête,Heavy Great Weapon,1,,3,AP(3),AP(3),
+Ratmen,ratmen_griffarque_sur_ronge_bete,Griffarque sur Ronge-Bête,Claws,1,,3,,,
+Ratmen,ratmen_prophete_souricier,Prophète Souricier,Hand Weapon,1,,3,,,
+Ratmen,ratmen_ingenieur_techno_rat,Ingénieur Techno-Rat,Hand Weapon,1,,3,,,
+Ratmen,ratmen_ingenieur_techno_rat,Ingénieur Techno-Rat,Overtuned Sniper Rifle,1,24,1,Hazardous;Reliable;Takedown,Reliable;Takedown,Hazardous
+Ratmen,ratmen_chef_guerrier,Chef Guerrier,Halberd,1,,3,Rending,Rending,
+Ratmen,ratmen_guerriers_des_clans_dents_de_fer,Guerriers des clans Dents-de-Fer,Hand Weapon,10,,1,,,
+Ratmen,ratmen_rat_tireurs,Rat tireurs,Sniper Rifle,3,30,1,AP(1);Reliable;Takedown,AP(1);Reliable;Takedown,
+Ratmen,ratmen_rat_tireurs,Rat tireurs,Hand Weapon,3,,1,,,
+Ratmen,ratmen_rats_ogres_dechikteurs,Rats-Ogres Dechikteurs,Great Weapon,3,,3,AP(2),AP(2),
+Ratmen,ratmen_ratling_geante,Ratling Géante,Twin Overtuned Gatling Guns,1,18,6,Hazardous,,Hazardous

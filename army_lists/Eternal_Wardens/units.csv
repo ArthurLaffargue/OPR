@@ -1,0 +1,14 @@
+army,unit_id,unit_name,base_size_mm,max_selection,selectable_options,size,quality,defense,points,rules_all,rules_core,rules_army_specific,weapon_names
+Eternal Wardens,eternal_wardens_veilleur_eternel,Veilleur Eternel,40,1,,1,3+,3+,150,Fearless;Hero;Tough(6);Warden;Unstoppable in Melee Aura,Fearless;Hero;Tough(6),Warden;Unstoppable in Melee Aura,Great Thunder Mace
+Eternal Wardens,eternal_wardens_seigneur_tempete_sur_gryphe_drake,Seigneur Tempête sur Gryphe-Drake,60,1,,1,3+,3+,335,Fearless;Hero;Tough(12);Warden;Fear(2);Breath Attack;Fast,Fearless;Hero;Tough(12);Fear(2);Fast,Warden;Breath Attack,Great Thunder Mace;Rending Claws
+Eternal Wardens,eternal_wardens_pretresse_tempete,Pretresse tempête,40,1,,1,3+,4+,155,Fearless;Furious;Hero;Tough(6);Warden;Caster(3),Fearless;Furious;Hero;Tough(6);Caster(3),Warden,Great Staff
+Eternal Wardens,eternal_wardens_chevalier_purificateur,Chevalier Purificateur,40,1,,1,4+,4+,75,Fearless;Hero;Tough(3);Warden;Stealth Aura,Fearless;Hero;Tough(3),Warden;Stealth Aura,Heavy Hand Weapon
+Eternal Wardens,eternal_wardens_porteur_de_lumiere,Porteur de Lumière,40,1,,1,4+,4+,55,Fearless;Hero;Tough(3);Warden;Warden Boost Aura,Fearless;Hero;Tough(3),Warden;Warden Boost Aura,Heavy Hand Weapon
+Eternal Wardens,eternal_wardens_legionnaires_foudre_lance,Légionnaires Foudre-Lance,32,2,Sergeant[5pts],5,4+,4+,80,Fearless;Warden,Fearless,Warden,Heavy Halberd
+Eternal Wardens,eternal_wardens_legionnaire_frappe_tonnerre,Légionnaire Frappe-Tonnerre,32,2,Sergeant[5pts],5,4+,4+,85,Fearless;Warden,Fearless,Warden,Heavy Great Weapon
+Eternal Wardens,eternal_wardens_gardes_sanctifies,Gardes Sanctifiés,32,3,Sergeant[5pts],3,3+,4+,155,Fearless;Furious;Tough(3);Warden,Fearless;Furious;Tough(3),Warden,Heavy Hand Weapon;Thunder Mace
+Eternal Wardens,eternal_wardens_sorciers_des_tempetes,Sorciers des Tempêtes,32,1,,3,3+,4+,190,Unpredictable Fighter;Fearless;Tough(3);Warden;Caster(+1),Fearless;Tough(3);Caster(+1),Unpredictable Fighter;Warden,Great Staff
+Eternal Wardens,eternal_wardens_guerriers_meteores,Guerriers Météores,32,1,,3,3+,4+,260,Fearless;Flying;Furious;Tough(3);Warden;Ambush,Fearless;Flying;Furious;Tough(3);Ambush,Warden,Dual Heavy Hand Weapons
+Eternal Wardens,eternal_wardens_templiers_reclusiens,Templiers Réclusiens,32,1,,3,3+,3+,220,Fearless;Tough(3);Warden,Fearless;Tough(3),Warden,Great Axe
+Eternal Wardens,eternal_wardens_archers,Archers,28,2,,5,4+,4+,95,Fearless;Warden,Fearless,Warden,Bow;Hand Weapon
+Eternal Wardens,eternal_wardens_arbaletriers_lourds,Arbalétriers lourds,32,1,,3,3+,4+,245,Fearless;Tough(3);Warden,Fearless;Tough(3),Warden,Hand Weapon;Thunder Crossbow

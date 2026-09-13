@@ -1,0 +1,9 @@
+army,unit_id,unit_name,base_size_mm,max_selection,selectable_options,size,quality,defense,points,rules_all,rules_core,rules_army_specific,weapon_names
+Ratmen,ratmen_griffarque_sur_ronge_bete,Griffarque sur Ronge-Bête,50,1,,1,4+,4+,145,Fearless;Hero;Tough(6);Scurry;Fast;Precision Fighter Aura,Fearless;Hero;Tough(6);Fast,Scurry;Precision Fighter Aura,Heavy Great Weapon;Claws
+Ratmen,ratmen_prophete_souricier,Prophète Souricier,28,1,,1,5+,5+,90,Hero;Tough(3);Scurry;Caster(3),Hero;Tough(3);Caster(3),Scurry,Hand Weapon
+Ratmen,ratmen_ingenieur_techno_rat,Ingénieur Techno-Rat,28,1,,1,5+,5+,85,Hero;Tough(3);Scurry;Bane when Shooting Aura,Hero;Tough(3),Scurry;Bane when Shooting Aura,Hand Weapon;Overtuned Sniper Rifle
+Ratmen,ratmen_chef_guerrier,Chef Guerrier,28,1,,1,5+,5+,65,Hero;Tough(3);Scurry;Ambush Aura,Hero;Tough(3),Scurry;Ambush Aura,Halberd
+Ratmen,ratmen_guerriers_des_clans_dents_de_fer,Guerriers des clans Dents-de-Fer,25,4,,10,5+,5+,90,Scurry;Banner;Sergeant,Banner;Sergeant,Scurry,Hand Weapon
+Ratmen,ratmen_rat_tireurs,Rat tireurs,50,1,,3,5+,5+,120,Scurry;Shielded;Slow,Slow,Scurry;Shielded,Sniper Rifle;Hand Weapon
+Ratmen,ratmen_rats_ogres_dechikteurs,Rats-Ogres Dechikteurs,40,1,,3,4+,4+,170,Furious;Tough(3);Scurry;Unpredictable Fighter,Furious;Tough(3),Scurry;Unpredictable Fighter,Great Weapon
+Ratmen,ratmen_ratling_geante,Ratling Géante,110,1,,1,5+,3+,150,Fast;Fear(1);Fearless;Tough(6);Scurry;Impact(3),Fast;Fear(1);Fearless;Tough(6);Impact(3),Scurry,Twin Overtuned Gatling Guns

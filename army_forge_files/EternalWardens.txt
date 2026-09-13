@@ -1,0 +1,40 @@
+++ GuerriersOrage - Eternal Wardens (v3.5.3) [AOF 2100pts] [13 Units] ++
+
+Veilleur Eternel [1] Q3+ D3+ | 150pts | Fearless, Hero, Tough(6), Warden, Unstoppable in Melee Aura
+Great Thunder Mace (A2, AP(2), Blast(3), Lacerate)
+
+Seigneur Tempête sur Gryphe-Drake [1] Q3+ D3+ | 335pts | Fearless, Hero, Tough(12), Warden, Fear(2), Breath Attack, Fast
+Great Thunder Mace (A2, AP(2), Blast(3), Lacerate), Rending Claws (A3, Rending)
+
+Pretresse tempête [1] Q3+ D4+ | 155pts | Fearless, Furious, Hero, Tough(6), Warden, Caster(3)
+Great Staff (A4, AP(1), Bane)
+
+Chevalier Purificateur [1] Q4+ D4+ | 75pts | Fearless, Hero, Tough(3), Warden, Stealth Aura
+Heavy Hand Weapon (A3, AP(1))
+
+Porteur de Lumière [1] Q4+ D4+ | 55pts | Fearless, Hero, Tough(3), Warden, Warden Boost Aura
+Heavy Hand Weapon (A3, AP(1))
+
+Légionnaires Foudre-Lance [5] Q4+ D4+ | 80pts | 5x Fearless, 5x Warden
+5x Heavy Halberd (A1, AP(1), Rending)
+
+Légionnaire Frappe-Tonnerre [5] Q4+ D4+ | 85pts | 5x Fearless, 5x Warden
+5x Heavy Great Weapon (A1, AP(3))
+
+Gardes Sanctifiés [3] Q3+ D4+ | 155pts | 3x Fearless, 3x Furious, Tough(3), 3x Warden
+2x Heavy Hand Weapon (A2, AP(1)), Thunder Mace (A1, AP(2), Blast(3), Lacerate)
+
+Sorciers des Tempêtes [3] Q3+ D4+ | 190pts | 3x Unpredictable Fighter, 3x Fearless, Tough(3), 3x Warden, Caster(+1)
+3x Great Staff (A2, AP(1), Bane)
+
+Guerriers Météores [3] Q3+ D4+ | 260pts | 3x Fearless, 3x Flying, 3x Furious, Tough(3), 3x Warden, 3x Ambush
+3x Dual Heavy Hand Weapons (A4, AP(1))
+
+Templiers Réclusiens [3] Q3+ D3+ | 220pts | 3x Fearless, Tough(3), 3x Warden
+3x Great Axe (A3, AP(1), Reliable)
+
+Archers [5] Q4+ D4+ | 95pts | 5x Fearless, 5x Warden
+5x Bow (24", A1), 5x Hand Weapon (A1)
+
+Arbalétriers lourds [3] Q3+ D4+ | 245pts | 3x Fearless, Tough(3), 3x Warden
+3x Hand Weapon (A2), 3x Thunder Crossbow (18", A1, AP(2), Blast(3), Lacerate)

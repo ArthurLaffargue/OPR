@@ -1,0 +1,25 @@
+++ Skavens - Ratmen (v3.5.3) [AOF 915pts] [8 Units] ++
+
+Griffarque sur Ronge-Bête [1] Q4+ D4+ | 145pts | Fearless, Hero, Tough(6), Scurry, Fast, Precision Fighter Aura
+Heavy Great Weapon (A3, AP(3)), Claws (A3)
+
+Prophète Souricier [1] Q5+ D5+ | 90pts | Hero, Tough(3), Scurry, Caster(3)
+Hand Weapon (A3)
+
+Ingénieur Techno-Rat [1] Q5+ D5+ | 85pts | Hero, Tough(3), Scurry, Bane when Shooting Aura
+Hand Weapon (A3), Overtuned Sniper Rifle (24", A1, Hazardous, Reliable, Takedown)
+
+Chef Guerrier [1] Q5+ D5+ | 65pts | Hero, Tough(3), Scurry, Ambush Aura
+Halberd (A3, Rending)
+
+Guerriers des clans Dents-de-Fer [10] Q5+ D5+ | 90pts | 10x Scurry, Banner, Sergeant
+10x Hand Weapon (A1)
+
+Rat tireurs [3] Q5+ D5+ | 120pts | 3x Scurry, 3x Shielded, 3x Slow
+3x Sniper Rifle (30", A1, AP(1), Reliable, Takedown), 3x Hand Weapon (A1)
+
+Rats-Ogres Dechikteurs [3] Q4+ D4+ | 170pts | 3x Furious, Tough(3), 3x Scurry, 3x Unpredictable Fighter
+3x Great Weapon (A3, AP(2))
+
+Ratling Géante [1] Q5+ D3+ | 150pts | Fast, Fear(1), Fearless, Tough(6), Scurry, Impact(3)
+Twin Overtuned Gatling Guns (18", A6, Hazardous)
