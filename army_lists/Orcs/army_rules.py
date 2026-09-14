@@ -80,10 +80,10 @@ ARMY_RULES = {
         "description": "Aura : Donne à toute l'unité",
         "valid_for_IA": True,
     },
-    'Speed Feat' : {
+    'Speed Feat': {
         "has_param": False,
         "category": 'special_rule',
-        "description" : "Une fois par bataille M+2/ADV+4 --> Pour IA approx en M+1/ADV+2 tout le temps",
+        "description": 'Une fois par bataille M+2/ADV+4 --> Pour IA approx en M+1/ADV+2 tout le temps',
         "valid_for_IA": True,
-    }
+    },
 }
